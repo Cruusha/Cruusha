@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Jonathan Schneider. jschneider4@my.waketech.edu
+I recently created my Github account, and my repository has only the "ReadMe" file in it as of now. To clone the repository 
+I created it in the web version of Github, and then downloaded the Desktop version. Once I had the desktop version I selected
+"Clone Depository in the top left corner and voila!
